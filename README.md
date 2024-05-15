@@ -1,3 +1,3 @@
 # Exam-Run
 
-Jogo desenvolvido em C# - unity
+Game developed in C# - unity
